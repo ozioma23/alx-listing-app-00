@@ -1,3 +1,4 @@
+# alx-listing-app-00
 ALX Listing App
 
 Welcome to the ALX Listing App! This project is designed as a simple property listing interface similar to an Airbnb listing page. It will showcase reusable UI components and use modern web development tools like Next.js and Tailwind CSS.
