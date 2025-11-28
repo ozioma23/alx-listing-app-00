@@ -1,3 +1,5 @@
+import { PropertyProps } from "@/interfaces";
+
 
 export const HERO_BG_IMAGE = "https://example.com/hero-image.jpg"; // Replace with your image URL
 

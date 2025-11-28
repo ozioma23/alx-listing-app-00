@@ -30,3 +30,13 @@ export interface PropertyProps {
   image: string;
   discount: string;
 }
+
+
+export interface Review {
+  name: string;
+  avatar: string;
+  rating: number;
+  comment: string;
+  date?: string;
+}
+
